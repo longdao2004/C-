@@ -1,0 +1,14 @@
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\bin\Debug\net8.0\C#_19_OOP.exe
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\bin\Debug\net8.0\C#_19_OOP.deps.json
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\bin\Debug\net8.0\C#_19_OOP.runtimeconfig.json
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\bin\Debug\net8.0\C#_19_OOP.dll
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\bin\Debug\net8.0\C#_19_OOP.pdb
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.AssemblyInfoInputs.cache
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.AssemblyInfo.cs
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.dll
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\refint\C#_19_OOP.dll
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.pdb
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\C#_19_OOP.genruntimeconfig.cache
+C:\Users\daota\Documents\C#\C#_19_OOP\C#_19_OOP\obj\Debug\net8.0\ref\C#_19_OOP.dll

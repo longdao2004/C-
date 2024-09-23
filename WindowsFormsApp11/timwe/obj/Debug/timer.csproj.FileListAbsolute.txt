@@ -1,0 +1,12 @@
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\bin\Debug\timwe.exe.config
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\bin\Debug\timwe.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\bin\Debug\timwe.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.frm1.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.Frm2.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.Properties.Resources.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp11\timwe\obj\Debug\timwe.frmtest.resources

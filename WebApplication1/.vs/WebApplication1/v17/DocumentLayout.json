@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daota\\Documents\\C#\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F282B3-E32A-4E4F-8D52-3C34A778F05E}|WebApplication1\\WebApplication1.csproj|c:\\users\\daota\\documents\\c#\\webapplication1\\webapplication1\\th.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1F282B3-E32A-4E4F-8D52-3C34A778F05E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\th.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TH.aspx",
+              "DocumentMoniker": "C:\\Users\\daota\\Documents\\C#\\WebApplication1\\WebApplication1\\TH.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\TH.aspx",
+              "ToolTip": "C:\\Users\\daota\\Documents\\C#\\WebApplication1\\WebApplication1\\TH.aspx",
+              "RelativeToolTip": "WebApplication1\\TH.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-13T16:43:04.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

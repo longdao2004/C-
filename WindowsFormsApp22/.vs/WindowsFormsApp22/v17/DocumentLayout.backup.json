@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daota\\Documents\\C#\\WindowsFormsApp22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D34C98D-6B16-4715-B89F-3618E1C118CE}|WindowsFormsApp22\\WindowsFormsApp22.csproj|c:\\users\\daota\\documents\\c#\\windowsformsapp22\\windowsformsapp22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D34C98D-6B16-4715-B89F-3618E1C118CE}|WindowsFormsApp22\\WindowsFormsApp22.csproj|solutionrelative:windowsformsapp22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daota\\Documents\\C#\\WindowsFormsApp22\\WindowsFormsApp22\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp22\\Form1.cs",
+              "ToolTip": "C:\\Users\\daota\\Documents\\C#\\WindowsFormsApp22\\WindowsFormsApp22\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp22\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:58:24.975Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

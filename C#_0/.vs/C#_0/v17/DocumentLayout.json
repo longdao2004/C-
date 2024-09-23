@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daota\\Documents\\C#\\C#_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3C21C8-4BCA-46BB-BAD0-E78078D82037}|C#_0\\C#_0.csproj|c:\\users\\daota\\documents\\c#\\c#_0\\c#_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3C21C8-4BCA-46BB-BAD0-E78078D82037}|C#_0\\C#_0.csproj|solutionrelative:c#_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daota\\Documents\\C#\\C#_0\\C#_0\\Program.cs",
+              "RelativeDocumentMoniker": "C#_0\\Program.cs",
+              "ToolTip": "C:\\Users\\daota\\Documents\\C#\\C#_0\\C#_0\\Program.cs",
+              "RelativeToolTip": "C#_0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:31:46.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

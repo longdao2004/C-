@@ -1,0 +1,10 @@
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\bin\Debug\ContactMenu.exe.config
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\bin\Debug\ContactMenu.exe
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\bin\Debug\ContactMenu.pdb
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.Form1.resources
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.Properties.Resources.resources
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.exe
+C:\Users\daota\Documents\C#\ContactMenu\ContactMenu\obj\Debug\ContactMenu.pdb

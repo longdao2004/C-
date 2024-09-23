@@ -1,0 +1,10 @@
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb

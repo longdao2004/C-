@@ -1,0 +1,10 @@
+C:\Users\daota\Documents\C#\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe.config
+C:\Users\daota\Documents\C#\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Form1.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Properties.Resources.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.pdb

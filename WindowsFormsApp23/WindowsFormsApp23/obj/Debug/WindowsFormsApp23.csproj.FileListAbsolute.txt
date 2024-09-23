@@ -1,0 +1,10 @@
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb

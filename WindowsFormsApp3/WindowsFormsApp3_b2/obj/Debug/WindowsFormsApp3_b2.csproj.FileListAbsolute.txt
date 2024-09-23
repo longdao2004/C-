@@ -1,0 +1,10 @@
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\bin\Debug\WindowsFormsApp3_b2.exe.config
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\bin\Debug\WindowsFormsApp3_b2.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\bin\Debug\WindowsFormsApp3_b2.pdb
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.Form1.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.Properties.Resources.resources
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.csproj.GenerateResource.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.exe
+C:\Users\daota\Documents\C#\WindowsFormsApp3\WindowsFormsApp3_b2\obj\Debug\WindowsFormsApp3_b2.pdb

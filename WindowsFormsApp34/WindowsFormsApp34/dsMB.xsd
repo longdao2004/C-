@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMB" targetNamespace="http://tempuri.org/dsMB.xsd" xmlns:mstns="http://tempuri.org/dsMB.xsd" xmlns="http://tempuri.org/dsMB.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMB" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsMB" msprop:Generator_DataSetName="dsMB">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblMayBay" msprop:Generator_RowEvHandlerName="tblMayBayRowChangeEventHandler" msprop:Generator_RowDeletedName="tblMayBayRowDeleted" msprop:Generator_RowDeletingName="tblMayBayRowDeleting" msprop:Generator_RowEvArgName="tblMayBayRowChangeEvent" msprop:Generator_TablePropName="tblMayBay" msprop:Generator_RowChangedName="tblMayBayRowChanged" msprop:Generator_RowChangingName="tblMayBayRowChanging" msprop:Generator_TableClassName="tblMayBayDataTable" msprop:Generator_RowClassName="tblMayBayRow" msprop:Generator_TableVarName="tabletblMayBay" msprop:Generator_UserTableName="tblMayBay">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="_x0020_IDMayBay" msprop:Generator_ColumnPropNameInRow="_IDMayBay" msprop:Generator_ColumnPropNameInTable="_IDMayBayColumn" msprop:Generator_ColumnVarNameInTable="column_IDMayBay" msprop:Generator_UserColumnName=" IDMayBay" type="xs:int" minOccurs="0" />
+              <xs:element name="TenMayBay" msprop:Generator_ColumnPropNameInRow="TenMayBay" msprop:Generator_ColumnPropNameInTable="TenMayBayColumn" msprop:Generator_ColumnVarNameInTable="columnTenMayBay" msprop:Generator_UserColumnName="TenMayBay" type="xs:string" minOccurs="0" />
+              <xs:element name="HangSanXuat" msprop:Generator_ColumnPropNameInRow="HangSanXuat" msprop:Generator_ColumnPropNameInTable="HangSanXuatColumn" msprop:Generator_ColumnVarNameInTable="columnHangSanXuat" msprop:Generator_UserColumnName="HangSanXuat" type="xs:string" minOccurs="0" />
+              <xs:element name="KichThuoc" msprop:Generator_ColumnPropNameInRow="KichThuoc" msprop:Generator_ColumnPropNameInTable="KichThuocColumn" msprop:Generator_ColumnVarNameInTable="columnKichThuoc" msprop:Generator_UserColumnName="KichThuoc" type="xs:int" minOccurs="0" />
+              <xs:element name="SoGhe" msprop:Generator_ColumnPropNameInRow="SoGhe" msprop:Generator_ColumnPropNameInTable="SoGheColumn" msprop:Generator_ColumnVarNameInTable="columnSoGhe" msprop:Generator_UserColumnName="SoGhe" type="xs:int" minOccurs="0" />
+              <xs:element name="PhanLoai" msprop:Generator_ColumnPropNameInRow="PhanLoai" msprop:Generator_ColumnPropNameInTable="PhanLoaiColumn" msprop:Generator_ColumnVarNameInTable="columnPhanLoai" msprop:Generator_UserColumnName="PhanLoai" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

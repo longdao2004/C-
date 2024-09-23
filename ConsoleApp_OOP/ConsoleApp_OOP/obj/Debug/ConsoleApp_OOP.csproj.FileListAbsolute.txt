@@ -1,0 +1,7 @@
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\bin\Debug\ConsoleApp_OOP.exe.config
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\bin\Debug\ConsoleApp_OOP.exe
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\bin\Debug\ConsoleApp_OOP.pdb
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\obj\Debug\ConsoleApp_OOP.csproj.AssemblyReference.cache
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\obj\Debug\ConsoleApp_OOP.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\obj\Debug\ConsoleApp_OOP.exe
+C:\Users\daota\Documents\C#\ConsoleApp_OOP\ConsoleApp_OOP\obj\Debug\ConsoleApp_OOP.pdb

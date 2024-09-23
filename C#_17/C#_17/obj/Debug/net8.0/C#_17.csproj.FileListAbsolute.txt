@@ -1,0 +1,14 @@
+C:\Users\daota\Documents\C#\C#_17\C#_17\bin\Debug\net8.0\C#_17.exe
+C:\Users\daota\Documents\C#\C#_17\C#_17\bin\Debug\net8.0\C#_17.deps.json
+C:\Users\daota\Documents\C#\C#_17\C#_17\bin\Debug\net8.0\C#_17.runtimeconfig.json
+C:\Users\daota\Documents\C#\C#_17\C#_17\bin\Debug\net8.0\C#_17.dll
+C:\Users\daota\Documents\C#\C#_17\C#_17\bin\Debug\net8.0\C#_17.pdb
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.AssemblyInfoInputs.cache
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.AssemblyInfo.cs
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.csproj.CoreCompileInputs.cache
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.dll
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\refint\C#_17.dll
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.pdb
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\C#_17.genruntimeconfig.cache
+C:\Users\daota\Documents\C#\C#_17\C#_17\obj\Debug\net8.0\ref\C#_17.dll
